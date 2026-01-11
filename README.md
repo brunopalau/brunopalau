@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I’m Bruno 👋
 
-<!--
-**brunopalau/brunopalau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI x life sciences
 
-Here are some ideas to get you started:
+- 🎓 ETH Zurich (Computational Biology & Bioinformatics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- 🧠 Medical foundation models & multimodal learning  
+- 🩻 Computer vision for biomedical/medical imaging  
+- 🧬 Generative models for biology & drug discovery  
+- ⚙️ Robustness, generalization, and reliability in real-world ML  
+
+📫 **Contact:** palauf.bruno@gmail.com  
