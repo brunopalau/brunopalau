@@ -1,13 +1,15 @@
-## Hi, I’m Bruno 👋
+**AI × Life Sciences** — Contributing to the future of medical AI
 
-AI x life sciences
+---
 
-- 🎓 ETH Zurich (Computational Biology & Bioinformatics)
+- 🎓 **ETH Zurich** — *M.Sc. Computational Biology & Bioinformatics*
 
-### Interests
-- 🧠 Medical foundation models & multimodal learning  
-- 🩻 Computer vision for biomedical/medical imaging  
-- 🧬 Generative models for biology & drug discovery  
-- ⚙️ Robustness, generalization, and reliability in real-world ML  
+### What I’m into
+- 🧠 **Medical foundation models** & multimodal learning  
+- 🩻 **Computer vision** for biomedical / medical imaging  
+- 🧬 **Generative models** for biology & drug discovery  
+- ⚙️ **Reliable real-world ML** — robust & generalizable
 
-📫 **Contact:** palauf.bruno@gmail.com  
+---
+
+📫 **Contact:** `palauf.bruno@gmail.com`  
